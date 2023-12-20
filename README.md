@@ -1,0 +1,2 @@
+# TypeScript
+ estudos sobre typescript
