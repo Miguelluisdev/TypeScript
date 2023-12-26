@@ -1,0 +1,11 @@
+"use strict";
+let minhaTupla;
+minhaTupla = ["Olá", 42];
+console.log(minhaTupla[0]);
+console.log(minhaTupla[1]);
+let coordenadas = [37.7749, -122.4194];
+let par = ["idade", 25];
+let pessoa;
+pessoa = ["João", 30];
+console.log(pessoa[0]);
+console.log(pessoa[1]);
