@@ -1,0 +1,10 @@
+var vteste;
+vteste = "darius";
+vteste = 888;
+var cursos = ["javascript", "typescript", "c++"];
+var valores = [10, 200, 2023];
+cursos.push("arduino");
+valores.push(555);
+console.log(cursos);
+console.log(valores);
+console.log(vteste);
